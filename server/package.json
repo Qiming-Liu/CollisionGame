@@ -1,0 +1,16 @@
+{
+  "name": "CollisionGame",
+  "version": "1.0.0",
+  "description": "2D multiplayer web game based on cordova and nodejs.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Qiming-Liu",
+  "license": "Apache-2.0 License",
+  "dependencies": {
+    "express": "^4.17.1",
+    "rxjs": "^6.6.3",
+    "socket.io": "^2.3.0"
+  }
+}
